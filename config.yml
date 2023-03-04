@@ -9,8 +9,8 @@ CMD_ALIASES:
 BOT:
   ACTIVITYS: { name: "/help", type: "COMPETING" }
   STATUS: "idle"
-  TOKEN: ""
-  PREFIX: ""
+  TOKEN: "MTAyNzgzNTg3MTQ0MzAyNTk3Mg.GAGwfp.-Vf65tRWbSkBJvHKf7VqOgus_wU-VN4bc_n5R4"
+  PREFIX: "×"
   lavalink:
     {
       host: "node1.kartadharta.xyz",
