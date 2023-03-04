@@ -9,7 +9,7 @@ CMD_ALIASES:
 BOT:
   ACTIVITYS: { name: "/help", type: "COMPETING" }
   STATUS: "idle"
-  TOKEN: "MTAyNzgzNTg3MTQ0MzAyNTk3Mg.GAGwfp.-Vf65tRWbSkBJvHKf7VqOgus_wU-VN4bc_n5R4"
+  TOKEN: "MTA1NzM4MTQyNzMyMDE5MzA4Ng.GWH-gK.nqyM7A13QBQfq6507Ui2aeQwkd9mWsGQ5tFC_4"
   PREFIX: "×"
   lavalink:
     {
